@@ -1,0 +1,21 @@
+# Build artifacts
+*.exe
+*.obj
+*.lst
+*.log
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE / editor files
+*.dev
+.vscode/
+.idea/
+
+# External tools
+*.jar
+
+# Temporary files
+*~
